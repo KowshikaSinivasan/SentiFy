@@ -117,7 +117,3 @@ Frontend runs at: **http://localhost:3000**
 ## 📜 License  
 
 This project is **open-source** under the MIT License.  
-
----
-
-This README is **clean, structured, and professional**. Let me know if you need any tweaks! 🚀🔥
